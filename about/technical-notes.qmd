@@ -1,0 +1,42 @@
+---
+title: "Technical Notes"
+subtitle: "(Julia, Python, LaTeX)"
+---
+
+## Posts in Qiita (in Japanese) {#h-guhjh9iosdz3}
+
+- [np.exp(x) よりも np.e\*\*x の方が速いことがあるらしい](https://qiita.com/rockwell/items/e0747e4e49cedc1d8b2a)
+
+- [\[LaTeX\] jlreq (book)の「付録 A」を「Appendix A」に変更する](https://qiita.com/rockwell/items/94155d836efb0212052b)
+
+- [beamerでスライドづくり：Tipsとカスタムテンプレート](https://qiita.com/rockwell/items/eddd6e544498bacc4c5a)
+
+- [【LaTeX】beamerでdescription環境(見出し付き箇条書き)の見出しと文の境界を揃える](https://qiita.com/rockwell/items/884503d765695757d4c1)
+
+- [【LaTeX】description環境(見出し付き箇条書き)で見出しと文の境界を揃える](https://qiita.com/rockwell/items/e8ffeaeeea7b6505e5f8)
+
+## Minor notes {#h-stdgg6niadno}
+
+Small things that I don't to want to forget...
+
+### Asynchronous programming in Julia {#h-mz7iumvvt4x4}
+
+- Threads.@spawn should be preferred to @async !
+
+  - Actually, [the doc](https://docs.julialang.org/en/v1/base/parallel/#Base.@async) STRONGLY RECOMMENDS to do so. I underestimated its influence on performance: when I used @async, the script that ran fast otherwise became soooooo slow (that I looked for a bug that did not exist)!!!
+
+  - The mechanism involves task migration (according to the doc).
+
+- There should be either multiple threads or sleep time to prevent other tasks from hanging!
+
+  - When I schedule a task that is always busy \[e.g. loops without sleep()\] by Threads.@spawn, one thread is occupied by the task.
+
+  - Hence, even though the task is 'spawned', other tasks cannot move forward!
+
+### Solving differential equations in Julia {#h-6jmr3xxo2ttz}
+
+- Performance with EnsembleProblem: solve(EnsembleProblem, ...) takes an optional keyword argument pmap_batch_size !
+
+  - When calculation of a single trajectory is costly (which is usually the case for me), I should set pmap_batch_size=1 !
+
+  - Otherwise (by default), trajectories are grouped into at most 100 batches.

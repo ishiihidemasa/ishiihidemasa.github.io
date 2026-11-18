@@ -1,0 +1,14 @@
+---
+title: "A Modeller's Introduction to Stochastic Nonlinear Dynamics"
+subtitle: "Stochastic differential equations, Fokker-Planck equations, and noise-induced escape"
+---
+
+An introduction to stochastic differential equations, Fokker-Planck equations, and mean first passage times, working towards noise-induced escape in a one-dimensional bistable system. It is written for modellers coming from deterministic nonlinear dynamics rather than for mathematicians or physicists: instead of beginning with Markov processes or Langevin dynamics, it starts from a deterministic differential equation, adds noise to it naively, and only then works out what the resulting equation means. Only additive white Gaussian noise is considered.
+
+This is a lightly edited standalone version of Chapter 2 of my doctoral thesis (the University of Tokyo, 2026), which is not publicly available yet.
+
+[\[Download PDF (19 pages)\]](https://drive.google.com/file/d/1OYgH4k--PDuv5ufmBCPccgE1RIhv56Cw/view?usp=drive_link)
+
+Please cite as: H. Ishii, "A modeller's introduction to stochastic nonlinear dynamics" (2026), adapted from Chapter 2 of the author's doctoral thesis.
+
+Feel free to email me, shoud you have any comments about this note.

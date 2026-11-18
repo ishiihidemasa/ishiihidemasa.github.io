@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Hidemasa Ishii"
+  navbar:
+    background: "#155070"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About Me
+        menu:
+          - href: about/ja.qmd
+            text: 日本語
+          - href: about/en.qmd
+            text: English
+          - href: about/activities.qmd
+            text: Activities
+          - href: reading/index.qmd
+            text: Reading Record
+      - href: research/index.qmd
+        text: Research / Publications
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
