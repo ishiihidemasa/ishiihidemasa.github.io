@@ -1,0 +1,12 @@
+---
+title: "ノート"
+subtitle: "（査読なし）"
+---
+
+研究のかたわらで書いた解説と、道具のメモです。
+
+- [A Modeller's Introduction to Stochastic Nonlinear Dynamics (2026)](/en/research/notes/stochastic-nonlinear-dynamics.qmd)（英語）\
+  確率微分方程式、Fokker-Planck 方程式、ノイズ誘起脱出を、決定論的な非線形力学から来たモデラー向けに解説したもの。博士論文の第2章をもとにしている。19ページ。
+
+- [Technical Notes](/ja/research/notes/technical-notes.qmd)\
+  Julia・Python・LaTeX のメモと、Qiita の記事へのリンク。

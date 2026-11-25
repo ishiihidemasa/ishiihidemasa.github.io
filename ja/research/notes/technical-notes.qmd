@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /about/technical-notes.html
 title: "Technical Notes"
 subtitle: "(Julia, Python, LaTeX)"
 ---

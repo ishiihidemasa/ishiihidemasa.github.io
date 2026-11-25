@@ -2,30 +2,40 @@ project:
   type: website
   output-dir: _site
 
+# 日英の2つの木（/ja/ と /en/）。ナビは日本語で1つだけ書き、英語のページでは lang-switch.html の
+# スクリプトがリンク先を /en/ に、表示名を英語に差し替える。右端は反対の言語の同じページへのリンク。
+# 決めた経緯は 350 の ClaudeWorkspace/261125-hp-structure/00-NOTES.md。
 website:
   title: "Hidemasa Ishii"
+  site-url: https://ishiihidemasa.github.io
   navbar:
     background: "#155070"
     foreground: "#ffffff"
     left:
-      - href: index.qmd
-        text: Home
-      - text: About Me
+      - href: ja/index.qmd
+        text: ホーム
+      - text: 研究
         menu:
-          - href: about/ja.qmd
-            text: 日本語
-          - href: about/en.qmd
-            text: English
-          - href: about/activities.qmd
-            text: Activities
-          - href: reading/index.qmd
-            text: Reading Record
-      - href: research/index.qmd
-        text: Research / Publications
+          - href: ja/research/publications.qmd
+            text: 研究業績
+          - href: ja/research/notes/index.qmd
+            text: ノート
+      - href: ja/cv.qmd
+        text: 経歴
+      - href: ja/practice.qmd
+        text: 実践
+      - href: ja/hobbies.qmd
+        text: 趣味
+    right:
+      # 言語の切り替え。地球儀ではなく翻訳のアイコンにして、隣のダークモードのスイッチと見分けられるようにした
+      - href: en/index.qmd
+        icon: translate
+        text: English
 
 format:
   html:
     theme:
       light: cosmo
-      dark: darkly
+      dark: [darkly, navbar-dark.scss]
     toc: true
+    include-after-body: lang-switch.html

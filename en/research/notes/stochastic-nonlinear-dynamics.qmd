@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /research/notes/stochastic-nonlinear-dynamics.html
 title: "A Modeller's Introduction to Stochastic Nonlinear Dynamics"
 subtitle: "Stochastic differential equations, Fokker-Planck equations, and noise-induced escape"
 ---

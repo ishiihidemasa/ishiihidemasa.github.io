@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /reading/2026.html
 title: "読書記録 2026"
 ---
 

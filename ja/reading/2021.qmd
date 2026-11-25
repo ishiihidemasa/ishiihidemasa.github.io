@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /reading/2021.html
 title: "読書記録 2021"
 ---
 

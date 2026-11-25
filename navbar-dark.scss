@@ -1,0 +1,3 @@
+/*-- scss:defaults --*/
+// darkly はナビの上下の余白が 1rem で、cosmo（0.5rem）より帯が高い。切り替えで帯の高さが変わらないよう揃える（Ishii、2026-11-25）
+$navbar-padding-y: 0.5rem;

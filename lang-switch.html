@@ -1,0 +1,75 @@
+<script>
+// 日英の切り替え。_quarto.yml のナビは日本語で書いてあり、英語のページ（/en/ の下）ではここで差し替える。
+// 右端のリンクは、反対の言語の同じパスへ飛ぶ。そのページが無ければ反対の言語のホームへ飛び、その旨を1行出す。
+// Quarto の module のスクリプトより後に走らせるため、load を待つ
+window.addEventListener("load", function () {
+  var path = location.pathname;
+  var m = path.match(/^\/(ja|en)\//);
+  var lang = m ? m[1] : "ja";
+  var other = lang === "ja" ? "en" : "ja";
+  var labels = { "ホーム": "Home", "研究": "Research", "研究業績": "Publications", "ノート": "Notes",
+                 "経歴": "CV", "実践": "Practice", "趣味": "Hobbies" };
+  var nav = document.querySelector("#quarto-header nav") || document;
+
+  function pathOf(a) { try { return new URL(a.href, location.href).pathname; } catch (e) { return ""; } }
+
+  // 英語のページでは、ナビの /ja/ を /en/ に、表示名を英語に
+  if (lang === "en") {
+    nav.querySelectorAll("a").forEach(function (a) {
+      var p = pathOf(a);
+      if (p.indexOf("/ja/") === 0) { a.setAttribute("href", "/en/" + p.slice(4)); }
+      a.querySelectorAll("span.menu-text, span.dropdown-text").forEach(function (s) {
+        var t = s.textContent.trim();
+        if (labels[t]) { s.textContent = labels[t]; }
+      });
+    });
+    var brand = nav.querySelector("a.navbar-brand");
+    if (brand) { brand.setAttribute("href", "/en/index.html"); }
+  }
+
+  // 右端の切り替えリンク
+  var toggle = null;
+  nav.querySelectorAll("a").forEach(function (a) {
+    var t = a.textContent.trim();
+    if (t === "English") { toggle = a; }
+  });
+  if (toggle) {
+    var target = m ? "/" + other + "/" + path.slice(4) : "/en/index.html";
+    if (target.slice(-1) === "/") { target += "index.html"; }
+    var label = other === "en" ? "English" : "日本語";
+    toggle.querySelectorAll("span.menu-text").forEach(function (s) { s.textContent = label; });
+    toggle.setAttribute("href", target);
+    toggle.addEventListener("click", function (ev) {
+      ev.preventDefault();
+      fetch(target, { method: "HEAD" }).then(function (r) {
+        location.href = r.ok ? target : "/" + other + "/index.html?only=" + lang;
+      }).catch(function () { location.href = "/" + other + "/index.html?only=" + lang; });
+    });
+  }
+
+  // ダークモードのスイッチに名前を添える（Quarto 標準はアイコンだけで、何のスイッチか分からないため。Ishii、2026-11-25）
+  var darkLabel = lang === "ja" ? "ダークモード" : "Dark mode";
+  // Quarto 1.11 ではスイッチは button（a ではない）。版で変わりうるのでクラス名だけで探す
+  document.querySelectorAll(".quarto-color-scheme-toggle").forEach(function (a) {
+    a.setAttribute("title", darkLabel);
+    a.setAttribute("aria-label", darkLabel);
+    var s = document.createElement("span");
+    s.textContent = darkLabel;
+    s.style.fontSize = "0.85em";
+    s.style.marginRight = "0.35em";
+    s.style.verticalAlign = "middle";
+    a.insertBefore(s, a.firstChild);
+  });
+
+  // 片方の言語にしか無いページから来たときの1行
+  var only = new URLSearchParams(location.search).get("only");
+  if (only) {
+    var msg = only === "ja" ? "That page is available only in Japanese." : "そのページは英語のみです。";
+    var main = document.querySelector("main") || document.body;
+    var div = document.createElement("div");
+    div.className = "alert alert-info";
+    div.textContent = msg;
+    main.insertBefore(div, main.firstChild);
+  }
+});
+</script>

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /reading/2022.html
 title: "読書記録 2022"
 ---
 

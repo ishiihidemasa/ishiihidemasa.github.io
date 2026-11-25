@@ -1,12 +1,12 @@
 ---
+aliases:
+  - /index.html
 title: "石井 秀昌"
 subtitle: "ISHII Hidemasa"
 ---
 
 中央大学理工学術院　助教\
 東京大学大学院情報学環　特任研究員
-
-[**English page**](/about/en.qmd){.btn .btn-outline-primary}
 
 ## こんにちは！ {#h-nck8k4lzdvf2}
 

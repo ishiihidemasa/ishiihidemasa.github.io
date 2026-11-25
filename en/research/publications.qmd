@@ -1,0 +1,81 @@
+---
+title: "Publications"
+---
+
+<!-- 生成物。直すときは data/*.yaml を直して hp/gen_pages.py を実行する -->
+
+Researcher number：31038508
+
+See also: [Google Scholar](https://scholar.google.co.jp/citations?user=YAZKigQAAAAJ&hl=ja), [ORCID](https://orcid.org/0009-0001-5539-0910)
+
+## Peer-reviewed papers
+
+1. **H. Ishii**, H. Kori. Diffusive coupling facilitates and impedes noise-induced escape in interacting bistable elements. Sci. Rep. 14, 11019 (2024). [https://doi.org/10.1038/s41598-024-61058-7](https://doi.org/10.1038/s41598-024-61058-7)\
+   [Research introduction video](https://youtu.be/w2zKVufWmzY?si=ImU7a513ErhelZMo) in Japanese (YouTube, 6 min)
+2. **石井秀昌**, 西野成昭. 不平等回避により生じる協調ゲームのダイナミクスの変化の理論的分析. 日本オペレーションズ・リサーチ学会和文論文誌 64, pp.154-174 (2021). [https://doi.org/10.15807/torsj.64.154](https://doi.org/10.15807/torsj.64.154)
+
+## Preprints
+
+1. **H. Ishii**, H. Kori. Degree heterogeneity shapes escape mechanisms in networks of diffusively coupled bistable elements. [arXiv:2602.24039 [nlin.AO]](https://arxiv.org/abs/2602.24039) (2026).
+2. **H. Ishii**, H. Kori. Qualitatively distinct mechanisms of noise-induced escape in diffusively coupled bistable elements. [arXiv:2512.01388 [nlin.AO]](https://doi.org/10.48550/arXiv.2512.01388) (2025).
+3. **H. Ishii**, Y. Takai, Y. Marui, Y. Yamazaki, Y. Kato, H. Kori. Uncovering influence of football players' behaviour on team performance in ball possession through dynamical modelling. [arXiv:2504.06574 [physics.soc-ph]](https://arxiv.org/abs/2504.06574) (2025).
+4. **H. Ishii**, N. Nishino. Asymptotically stable matchings and evolutionary dynamics of preference revelation games in marriage problems. [arXiv:2205.08079 [econ.TH]](https://arxiv.org/abs/2205.08079) (2022).
+
+## International Conferences
+
+1. **Hidemasa Ishii**, Robert Großmann, Cristina Martinez-Torres, Carsten Beta. Reducing the complexity of phase-field models for cell motility to facilitate data assimilation. [11th International Conference Engineering of Chemical Complexity (ECC11)](https://sites.google.com/edu.k.u-tokyo.ac.jp/ecc11/home) (the University of Tokyo, Japan), Jul 30, 2025. \[Poster\]
+2. **Hidemasa Ishii**, Robert Großmann, Carsten Beta. Reducing the complexity of phase-field models for cell motility. 26th Seminar on "Pattern Formation in Chemistry and Biophysics" (Leucorea, Lutherstadt Wittenberg, Germany), Feb 22, 2025. \[Talk\]
+3. **Hidemasa Ishii**, Yohei Takai, Yuichiro Marui, Yoshihiro Yamazaki, Yusuke Kato, Hiroshi Kori. Football players' movements that lead to a longer ball possession. [SFB1294 International Summer School](https://www.sfb1294.de/events/event/spring-school-2024) (Lindner Hotels & Resorts Boltenhagen, Germany), Sep 16, 2024. \[Poster\]
+4. **Hidemasa Ishii**, Hiroshi Kori. Coupling strength, network heterogeneity, and transient processes of coupled bistable elements. [Kickoff meeting for "Advanced core-to-core network for the physics of self-organizing active matter"](https://sites.google.com/kyoto-u.ac.jp/c2c/events/fy-2023/2023_09_kyoto) (Rohm Theatre Kyoto, Japan), Sep 12, 2023. \[Poster\]
+5. **Hidemasa Ishii**, Hiroshi Kori. Transient processes of diffusively coupled bistable elements and network heterogeneity. [CoPhEE2023](https://sites.google.com/view/cophee2023/home) (the University of Tokyo, Japan), Aug 14, 2023. \[Talk\] \[[slides](https://drive.google.com/file/d/1dfx1_UhQ9FK3-4KFRMJSoQQjYDXLAh_C/view?usp=sharing)\]
+6. **Hidemasa Ishii**, Hiroshi Kori. Effect of network heterogeneity on transient processes of coupled bistable elements. [STATPHYS28](https://confit.atlas.jp/guide/event/statphys28/subject/PSb-141/tables?cryptoId=) (the University of Tokyo, Japan), Aug 8, 2023. \[Poster\] \[[slides](https://drive.google.com/file/d/1kVfA1ccZsm4x_XnufEeAVQ722s-KB29D/view?usp=sharing)\]
+
+## Seminars
+
+1. Reducing the complexity of phase-field models for cell motility. [Oberseminar: Aktuelle Probleme der Biologischen Physik & SFB1294 Seminar](https://www.uni-potsdam.de/en/biophysik/teaching/oberseminar-aktuelle-probleme-der-biologischen-physik) (University of Potsdam: Golm, Germany), Feb 26, 2025.
+2. Employing dynamical modelling to understand complex phenomena: from interacting bistable systems to football ball possession. Seminar on Statistical Physics and Nonlinear Dynamics (Humboldt University Berlin: Adlershof, Germany), Feb 13, 2025.
+3. Employing dynamical modeling to understand complex phenomena: from interacting bistable systems to football ball possession. [NAXYS Seminar](https://www.naxys.be/event/hidemasa-ishii-university-of-tokyo/) (Namur Institute for Complex Systems, Belgium), Nov 26, 2024.
+4. Employing dynamical modeling to understand complex phenomena: from interacting bistable systems to football ball possession. Research Seminar Mathematical Models of Photonics (Weierstrass Institute for Applied Analysis and Stochastics, Germany), Nov 21, 2024.
+5. Employing dynamical systems modeling to understand complex phenomena: from interacting bistable systems to football drills. [Oberseminar: Aktuelle Probleme der Biologischen Physik & SFB1294 Seminar](https://www.sfb1294.de/events/2024) (University of Potsdam: Golm, Germany), Oct 16, 2024.
+
+## Domestic Conferences
+
+1. **石井秀昌**, 郡宏. 「双安定系ネットワークのノイズ誘起脱出における次数の不均一性の役割」日本物理学会2026年春季大会（オンライン），Mar 26, 2026. \[Talk\]
+2. **Hidemasa Ishii**, Hiroshi Kori. Qualitatively distinct mechanisms of noise-induced escape in diffusively coupled bistable elements. [Dynamics Days Kagoshima 2025](https://sites.google.com/view/dynamicsdays25/) (鹿児島大学), Dec 8, 2025. \[Talk\]
+3. **石井秀昌**. 「実世界の理解に数理モデルはどう役立つのだろう」[応用数学フレッシュマンセミナー2025](https://sites.google.com/view/app-math-freshman-seminar-2025)（京都大学），Nov 8, 2025. \[Talk\]
+4. **石井秀昌**, 郡宏. 「多数の双安定系が拡散結合した系の平均脱出時間の分析」日本物理学会第80回年次大会（広島大学），Sep 16, 2025. \[Talk\]
+5. **Hidemasa Ishii**, Robert Großmann, Carsten Beta. Reducing the complexity of phase-field models for cell motility. 第2回生物普遍性ワークショップ (東京大学生産技術研究所), Mar 26, 2025. \[Poster\]
+6. **石井秀昌**. 「紐帯の強さが振舞いの伝播の速さに及ぼす影響」第76回数理社会学会大会（大阪大学），Mar 16, 2024. \[Talk\] \[[slides](https://drive.google.com/file/d/1W04mkNMmzWf-prq5R2jf90eThSyhnnsi/view?usp=drive_link)\]
+7. **Hidemasa Ishii**, Hiroshi Kori. Diffusive coupling facilitates and impedes noise-induced escape in interacting bistable elements. 生物普遍性ワークショップ (レクトーレ湯河原), Feb. 20 & 21, 2024. \[Poster\] \[[slides](https://drive.google.com/file/d/1Pheozg1swgJHzMjZCerOSsBS1GhGj4uj/view?usp=sharing)\]
+8. **Hidemasa Ishii**, Hiroshi Kori. Weak couplings accelerate noise-induced escapes in interacting bistable elements. [Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/) (Tokyo University of Science, Japan), Dec 5, 2023. \[Talk\]
+9. **石井秀昌**, 郡宏. 「大学進学に周囲の生徒が影響を及ぼす場合に予想される現象の検討」第74回数理社会学会大会（筑波大学），Mar 8, 2023. \[Poster\] \[[slides](https://drive.google.com/file/d/1AXseIlfDd-QRDjKITKt5gCiIiD0BYLOi/view?usp=sharing)\]
+10. **石井秀昌**, 郡宏. 「社会的弱者の集団形成を表す離散力学系モデルの構築」第32回日本数理生物学会大会（オンライン），Sep 6, 2022. \[Talk\] \[[slides](https://drive.google.com/file/d/1KbyhjTunaVjhN9eC0FOGWjh94tGE2DvD/view?usp=sharing)\]
+11. **石井秀昌**, 郡宏. 「社会的カテゴリーの形成を表す数理モデルの構築」第73回数理社会学会大会（オンライン），Aug 27, 2022. \[Poster\] \[[slides](https://drive.google.com/file/d/1U8VC2PdpcEzkSeZo0idjuBzpIvVPNGZ7/view?usp=sharing)\]
+12. **石井秀昌**, 他9名. 「Twitter 上の懸賞企画における捨てアカウントの特徴とそれを使うユーザの動機の考察」第15回テキストアナリティクス・シンポジウム（フューチャー株式会社），Sep 28, 2019. \[Talk\]
+
+## Academic Outreach
+
+1. **石井秀昌**. 「複雑な世界を数理モデルで理解したい」[Camos Tap Talk : Tap #4](https://camos-tap-talks.github.io/ja/talks/4-ishii)，Jul 10, 2026.
+2. **石井秀昌**. 「微分方程式で格差に挑む：物理と社会学の間」[10分で伝えます！東大研究最前線（第97回五月祭）](https://ut-10min.github.io/)，May 18 & 19, 2024. \[[slides](https://drive.google.com/file/d/1JGZMMtKmNzQGK1oJR747Os8pxiefXiKs/view?usp=sharing)\]
+
+## Research Visits
+
+1. Sep 3, 2026 - Sep 4, 2026 [ATMOS 2026, co-located with ALGO 2026](https://algo-conference.org/2026/atmos/), University of L'Aquila, L'Aquila, Italy
+2. Mar 3, 2026 National Institute of Fitness and Sports in KANOYA (Prof. Dr. Yohei Takai), Kanoya, Japan
+3. Feb 10 and 13, 2025 Theory of Complex Systems and Neurophysics Group, Humboldt University of Berlin (Dr. Ralf Tönjes), Berlin, Germany
+4. Jan 20, 2025 - Jan 24, 2025 ANETI Lab, Corvinus University of Budapest (Dr. Luca Gallo), Budapest, Hungary
+5. Jan 16, 2025 Neurophysics Group, University Medical Center Bonn (Prof. Dr. Klaus Lehnertz), Bonn, Germany
+6. Nov 25, 2024 - Nov 28, 2024 Namur Institute for Complex Systems, University of Namur (Prof. Dr. Timoteo Carletti), Namur, Belgium
+7. Nov 21, 2024 Weierstrass Institute for Applied Analysis and Stochastics, Dr. Jin Yan, Berlin, Germany
+8. Sep 25, 2024 - Sep 27, 2024 [Workshop on time-series analysis of noisy data 2024](https://wp.lancs.ac.uk/tsand24/), Lancaster University, Lancaster, UK
+9. Sep 1, 2024 - Feb 28, 2025 Biological Physics Group, University of Potsdam (Prof. Dr. Carsten Beta), Potsdam, Germany
+
+## Grants
+
+1. Jun 2026 - Mar 2027　The Nippon Foundation HUMAI Program, Scholarship A\
+    JPY 35,000 / month
+2. Apr 2024 - Mar 2026　Grant-in-Aid for JSPS Fellows\
+    JSPS KAKENHI Grant Number JP24KJ0635\
+    JPY 1,500,000
+3. Apr 2023 - Mar 2024　WINGS-PES Activity Promotion Grant\
+    JPY 340,000

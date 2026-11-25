@@ -1,0 +1,157 @@
+---
+title: "CV"
+---
+
+<!-- 生成物。直すときは data/*.yaml を直して hp/gen_pages.py を実行する -->
+
+[CV (PDF)](/files/hi-cv-en.pdf)
+
+## Employment
+
+Apr 2026 - Present　[Assistant Professor](https://sites.google.com/g.chuo-u.ac.jp/opt-lab/), School of Science and Engineering, Chuo University
+
+- Dept. of Information and System Engineering, Faculty of Science and Engineering
+
+Jun 2025 - Present　Project Researcher, Interfaculty Initiative in Information Studies, the University of Tokyo
+
+Sep 2024 - Feb 2025　Fellowship to external doctoral candidates, SFB1294 Data Assimilation
+
+- Biological Physics Group (Prof. Dr. Carsten Beta), Universität Potsdam (Germany)
+
+Apr 2024 - Mar 2026　Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science
+
+Oct 2021 - Mar 2024　[Research Assistant](https://wings-pes.edu.k.u-tokyo.ac.jp/), World-leading Innovative Graduate Study Program in Proactive Environmental Studies (WINGS-PES)
+
+## Education
+
+Apr 2023 - Mar 2026　Doctoral Course, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo (Ph.D. (Science))
+
+- [Nonlinear Physics Group](https://www.hk.k.u-tokyo.ac.jp/)
+- Supervisor: Prof. Hiroshi Kori
+- Thesis: Noise-induced escape in a population of bistable elements: interplay of nonlinearity, interaction, and noise
+
+Apr 2021 - Mar 2023　Master Course, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo (Master of Science)
+
+- [Nonlinear Physics Group](https://www.hk.k.u-tokyo.ac.jp/)
+- Supervisor: Prof. Hiroshi Kori
+- Thesis: Dynamical systems models for the influence of peers over university enrolment
+
+Apr 2016 - Mar 2021　Department of Systems Innovation, Faculty of Engineering, The University of Tokyo (Bachelor of Engineering)
+
+- [Nishino Lab](https://www.css.t.u-tokyo.ac.jp/home)
+- Supervisor: Assoc. Prof. Nariaki Nishino
+- Thesis: Analysis of the game dynamics of the stable marriage problem with evolutionary game dynamics (in Japanese)
+
+## Teaching
+
+Fall 2026　Integrated Seminar in Information Engineering (1st year), Dept. of Information and System Engineering, Chuo University
+
+- Designed a three-session module, including all lecture content and materials, and taught it to each of four rotating student groups. One of four faculty members; the course is coordinated by senior faculty.
+
+Fall 2026　Exercises in Algorithms and Data Structures (2nd year, Python), Dept. of Information and System Engineering, Chuo University
+
+- Teaching assistant (as faculty): answered student questions during sessions and graded assignments and exams.
+
+Spring 2026　Exercises in Introductory C Programming (1st year), Dept. of Information and System Engineering, Chuo University
+
+- Teaching assistant (as faculty): answered student questions during sessions and graded assignments and exams.
+
+Spring 2026　Exercises in Advanced Programming (2nd year, C++), Dept. of Information and System Engineering, Chuo University
+
+- Teaching assistant (as faculty): answered student questions during sessions and graded assignments and exams.
+
+Apr 20 and 27, 2023　Two lectures in "Programming Course", Kagaku Gijutsu Gakuen High School (Correspondence Course)
+
+- Gave two tutorial lectures (ca. two hours each) where students familiarised themselves with programming using Python. Planned the lectures and made all materials (Jupyter Notebooks) myself.
+
+Apr 2023 - Jul 2023　Teaching Assistant for "Nonlinear System Analyses II", the University of Tokyo
+
+Apr 2022 - Jul 2022　Teaching Assistant for "Bio Information Processing", the University of Tokyo
+
+## Awards
+
+Jun 2025　Special monthly stipends (12 months), Japan Society for the Promotion of Science
+
+- Award for excellent research achievement during the first year of Research Fellowship for Young Scientists (DC2)
+
+Jun 2024　Exemption from Repayment for Graduate School Students with Particularly Outstanding Achievements (all), Japan Student Services Organization
+
+- Award for outstanding academic achievement during the first year of PhD program
+
+Jun 2023　Exemption from Repayment for Graduate School Students with Particularly Outstanding Achievements (half), Japan Student Services Organization
+
+- Award for outstanding academic achievement during the master course
+
+Mar 23, 2023　Dean's Award for Outstanding Achievement (Master Course), Graduate School of Frontier Sciences, the University of Tokyo
+
+- Award for outstanding academic achievement during the master course
+
+Mar 18, 2021　[Hatakeyama Award](https://www.jsme.or.jp/archive/award/shou4-20.pdf), the Japan Society of Mechanical Engineers
+
+- Award for outstanding academic achievement during undergraduate studies
+
+Sep 17, 2019　Excellence Award, Data Science Contest (team psi_overfit), Mathematics and Informatics Center Consortium, the University of Tokyo
+
+## Outreach
+
+Jul 2026　Featured in "My Job", a Kyodo News series for children
+
+- Carried mainly by regional newspapers, including [the Mainichi Shimbun (regional edition)](https://mainichi.jp/articles/20260710/ddl/k13/040/009000c)
+
+Apr 2026 - Present　[Co-organiser of the café talk event "Acchi Kocchi Talk"](https://www.instagram.com/acchi.kocchi.talk/), Yamato, Kanagawa
+
+- A talk event at a local café, run with a friend. I plan the events and facilitate them.
+
+Jun 2025 - Present　[Host at UTalk](https://fukutake.iii.u-tokyo.ac.jp/utalk/), Fukutake Hall, Interfaculty Initiative in Information Studies, the University of Tokyo
+
+- UTalk is a science café that takes place every month, where general participants talk casually with a researcher of UTokyo. As a host, I invite a guest researcher and moderate the event.
+
+Apr 2023 - Aug 2024　[Manager at UTalk](https://fukutake.iii.u-tokyo.ac.jp/utalk/), Fukutake Hall, Interfaculty Initiative in Information Studies, the University of Tokyo
+
+- UTalk is a science café that takes place every month, where general participants talk casually with a researcher of UTokyo. Manager is responsible for most administrative tasks of UTalk.
+
+Apr 2019 - Mar 2023　[Assistant at UTalk](https://fukutake.iii.u-tokyo.ac.jp/utalk/), Fukutake Hall, Interfaculty Initiative in Information Studies, the University of Tokyo
+
+- UTalk is a science café that takes place every month, where general participants talk casually with a researcher of UTokyo. Assistant helps organize UTalk at the venue, takes pictures, and writes reports for the website on a shift basis.
+
+## Other Activities
+
+Mar 2026　[Completed the World-leading Innovative Graduate Study Program in Proactive Environmental Studies (WINGS-PES)](https://wings-pes.edu.k.u-tokyo.ac.jp/), the University of Tokyo
+
+Jul 2025　Conference Staff at ECC11
+
+Jan 2024 - Feb 2026　Organiser of the WINGS-PES modelling study group, the University of Tokyo
+
+Aug 2023　Conference Staff at STATPHYS28
+
+2017 - 2019　[Paid Volunteer at DO-IT Japan](https://doit-japan.org/), Research Center for Advanced Science and Technology, the University of Tokyo
+
+- DO-IT Japan is a project that aims to realize inclusive society through advancing the success of children and youth with disabilities and illnesses. I experienced both the assistance in activities of daily living for participants with disabilities and administrative works regarding the project.
+
+Apr 2016 - Mar 2019　[Trilingual Program (TLP) German](https://deutsch.c.u-tokyo.ac.jp/v20/tlp/), the University of Tokyo
+
+- TLP is a special language course during undergraduate program, where students with a certain level of English proficiency learn a second foreign language (German, in my case) from scratch through additional language classes. I participated in the short-term study abroad program of TLP German twice, once in Bonn (Feb. 2017) and once in Köln (Mar. 2019). In Köln, I joined a German course for ERASMUS students at Universität zu Köln.
+
+## Skills
+
+### Languages
+
+- Japanese (Native)
+- English (Fluent)
+  - Jun 2020 TOEFL iBT Score 104
+  - Feb 2020 Passed the exam for "National Government Licensed Guide Interpreter (English)"
+- German (Conversational)
+  - Mar 2019 Goethe Zertifikat Deutsch B2
+
+### Programming
+
+I like coding! I usually work with Docker / Apptainer containers.
+
+- Julia (intermediate)
+- Python (advanced)
+- C / C++ (advanced beginner)
+- R (advanced beginner)
+- Java / JavaScript / Google Apps Script (beginner)
+- Mathematica (advanced beginner)
+- LaTeX (advanced)
+- Typst (beginner)

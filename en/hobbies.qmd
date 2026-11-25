@@ -1,0 +1,25 @@
+---
+title: "Hobbies"
+---
+
+Most of the linked pages are in Japanese.
+
+## Photos & Blogs {#photos-blogs}
+
+- [Flickr](https://www.flickr.com/photos/201528224@N02/) (photos)\
+  Photos I took during my stay in Germany (2024-2025).
+
+- [Hide's Daily Notes](https://hideponote.blogspot.com/) (blog, in Japanese)\
+  A photo diary of my stay in Potsdam, Germany, from September 2024 to February 2025.
+
+- [2026 Italy & Germany photo diary](https://note.com/hidepo_note/m/m08319c3c8479) (note, in Japanese)\
+  A photo diary of my 11-day trip to L'Aquila, Trieste, Potsdam and Berlin in September 2026.
+
+## Music {#music}
+
+- Rather Be (Pentatonix cover) / U-tonix ([YouTube](https://youtu.be/BCeY8ckasxE))\
+  During my university days, we (a band named U-tonix) copied the music video by Pentatonix.
+
+## Reading {#reading}
+
+- [Reading Record](/ja/reading/index.qmd) (in Japanese). Notes and impressions on books I have read.

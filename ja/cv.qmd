@@ -1,0 +1,150 @@
+---
+aliases:
+  - /about/ja.html
+title: "経歴"
+---
+
+<!-- 生成物。直すときは data/*.yaml を直して hp/gen_pages.py を実行する -->
+
+[CV の PDF（英語）](/files/hi-cv-en.pdf)
+
+## 職歴
+
+2026/04 - 現在　[助教](https://sites.google.com/g.chuo-u.ac.jp/opt-lab/)（中央大学理工学術院）
+
+- 配属：先進理工学部情報工学科　数理最適化研究室
+
+2025/06 - 現在　特任研究員（東京大学大学院情報学環）
+
+- カフェイベントUTalkにおける学術コミュニケーション
+
+2024/09 - 2025/02　Fellowship to external doctoral candidates（SFB1294 Data Assimilation（ドイツ））
+
+- Biological Physics Group (Prof. Dr. Carsten Beta), Universität Potsdam
+
+2024/04 - 2026/03　特別研究員DC2（日本学術振興会）
+
+- 機会の不平等に個人間の相互作用が及ぼす影響の数理モデルによる分析
+
+2021/10 - 2024/03　[卓越リサーチ・アシスタント](https://wings-pes.edu.k.u-tokyo.ac.jp/)（プロアクティブ環境学国際卓越大学院プログラム（WINGS-PES））
+
+## 学歴
+
+2023/04 - 2026/03　東京大学大学院新領域創成科学研究科　複雑理工学専攻　博士課程　［博士（科学）］
+
+- [非線形物理学研究室](https://www.hk.k.u-tokyo.ac.jp/)
+- 指導教員：郡宏教授
+- 論文：双安定系の集団におけるノイズ誘起脱出の分析：非線形性，相互作用とノイズの相乗効果
+
+2021/04 - 2023/03　東京大学大学院新領域創成科学研究科　複雑理工学専攻　修士課程　［修士（科学）］
+
+- [非線形物理学研究室](https://www.hk.k.u-tokyo.ac.jp/)
+- 指導教員：郡宏教授
+- 論文：大学進学に周囲の生徒が与える影響の数理モデルによる分析
+
+2016/04 - 2021/03　東京大学工学部システム創成学科　知能社会システム（PSI）コース　［学士（工学）］
+
+- [西野研究室](https://www.css.t.u-tokyo.ac.jp/home)
+- 指導教員：西野成昭准教授
+- 論文：進化ゲーム理論を用いた安定結婚問題のゲームダイナミクスの分析
+
+2016-03-01　東京学芸大学附属高等学校　卒業
+
+
+## 授業
+
+2026年度後期　情報総合演習（1年）（中央大学 先進理工学部 情報工学科）
+
+- 3回分の授業を設計し、学生グループを入れ替えて4回実施（講義内容と教材はすべて自作）。4人の教員の1人で、科目の責任者はシニアの教員
+
+2026年度後期　アルゴリズムとデータ構造演習（2年、Python）（中央大学 先進理工学部 情報工学科）
+
+- 授業補助（授業中の質問対応、課題と試験の採点）
+
+2026年度前期　Cプログラミング初級演習（1年）（中央大学 先進理工学部 情報工学科）
+
+- 授業補助（授業中の質問対応、課題と試験の採点）
+
+2026年度前期　プログラミング上級演習（2年、C++）（中央大学 先進理工学部 情報工学科）
+
+- 授業補助（授業中の質問対応、課題と試験の採点）
+
+2023-04-20 - 2023-04-27　「プログラミング講座」（2回担当）（科学技術学園高等学校　通信制課程）
+
+- Python でプログラミングに慣れる2回の講義（各2時間ほど）。計画と教材（Jupyter Notebook）は自作
+
+2023/04 - 2023/07　「非線形システム解析論II」ティーチング・アシスタント（東京大学）
+
+2022/04 - 2022/07　「生体情報論」ティーチング・アシスタント（東京大学）
+
+## 受賞
+
+2025/06　研究奨励金特別手当（12ヶ月）（日本学術振興会）
+
+2024/06　特に優れた業績による返還免除（全額）（日本学生支援機構）
+
+2023/06　特に優れた業績による返還免除（半額）（日本学生支援機構）
+
+2023-03-23　新領域創成科学研究科長賞（修士）（Graduate School of Frontier Sciences, the University of Tokyo）
+
+2021-03-18　[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-20.pdf)（the Japan Society of Mechanical Engineers）
+
+2019-09-17　データサイエンスコンテスト　優秀賞（チーム: psi_overfit）（東京大学数理・データサイエンスコンソーシアム）
+
+## アウトリーチ
+
+2026/07　共同通信社配信の子ども向け連載【わたしの仕事】で取り上げてもらいました
+
+- [毎日新聞地方版](https://mainichi.jp/articles/20260710/ddl/k13/040/009000c)をはじめ、主に地方紙に掲載されるようです
+
+2026/04 - 現在　[カフェイベント「あっちこっちトーク」を共同主催](https://www.instagram.com/acchi.kocchi.talk/)（神奈川県大和市）
+
+- 地元のカフェで、友人と2人で主催している。企画と、当日の進行（ファシリテーター）が主な担当
+
+2025/06 - 現在　[UTalk　ホスト](https://fukutake.iii.u-tokyo.ac.jp/utalk/)（東京大学大学院情報学環・福武ホール）
+
+- ゲストの研究者を招き、当日の進行を担当する
+
+2023/04 - 2024/08　[UTalk　マネージャー](https://fukutake.iii.u-tokyo.ac.jp/utalk/)（東京大学大学院情報学環・福武ホール）
+
+2019/04 - 2023/03　[UTalk　アシスタント](https://fukutake.iii.u-tokyo.ac.jp/utalk/)（東京大学大学院情報学環・福武ホール）
+
+## その他の活動
+
+2026/03　[プロアクティブ環境学国際卓越大学院プログラム（WINGS-PES）　修了](https://wings-pes.edu.k.u-tokyo.ac.jp/)（the University of Tokyo）
+
+2025/07　ECC11　学会スタッフ
+
+2024/01 - 2026/02　WINGS-PES モデリング勉強会　主催（the University of Tokyo）
+
+2023/08　STATPHYS28　学会スタッフ
+
+2017 - 2019　[DO-IT Japan　有償ボランティア](https://doit-japan.org/)（東京大学先端科学技術研究センター）
+
+- 障害のある生徒・学生を対象とした進学・就労支援プログラム。介助と、プログラムの運営に関する事務作業の両方を経験させていただきました
+
+2016/04 - 2019/03　[東京大学トライリンガルプログラム・ドイツ語　修了](https://deutsch.c.u-tokyo.ac.jp/v20/tlp/)（the University of Tokyo）
+
+## Skills
+
+### 言語
+
+- 日本語 (Native)
+- 英語 (Fluent)
+  - 2020/06 TOEFL iBT Score 104
+  - 2020/02 「全国通訳案内士（英語）」試験合格（事務手続き・手数料の支払いをしていないので、免許は持っていない）
+- ドイツ語 (Conversational)
+  - 2019/03 Goethe Zertifikat Deutsch B2
+
+### プログラミング
+
+コーディングが好きです。基本的に Docker / Apptainer コンテナを使って作業しています。日本語はかな入力です。
+
+- Julia (intermediate)
+- Python (advanced)
+- C / C++ (advanced beginner)
+- R (advanced beginner)
+- Java / JavaScript / Google Apps Script (beginner)
+- Mathematica (advanced beginner)
+- LaTeX (advanced)
+- Typst (beginner)

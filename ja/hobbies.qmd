@@ -1,0 +1,23 @@
+---
+title: "趣味"
+---
+
+## 写真とブログ {#photos-blogs}
+
+- [Flickr](https://www.flickr.com/photos/201528224@N02/)（写真）\
+  ドイツ滞在中（2024〜2025年）に撮った写真。
+
+- [Hide's Daily Notes](https://hideponote.blogspot.com/)（ブログ）\
+  ドイツ・ポツダムに滞在した 2024年9月〜2025年2月の写真日記。最後の方は更新が追いつかず、途中で止まっている。
+
+- [2026イタリア・ドイツ写真日記](https://note.com/hidepo_note/m/m08319c3c8479)（note のマガジン）\
+  2026年9月のヨーロッパ出張の写真日記。ラクイラ→トリエステ→ポツダム・ベルリンを回った11日間、全12本。
+
+## 音楽 {#music}
+
+- Rather Be (Pentatonix cover) / U-tonix（[YouTube](https://youtu.be/BCeY8ckasxE)）\
+  大学時代に、バンド U-tonix で Pentatonix のミュージックビデオをコピーした。
+
+## 読書 {#reading}
+
+- [読書記録](/ja/reading/index.qmd)　読んだ本の記録と感想。

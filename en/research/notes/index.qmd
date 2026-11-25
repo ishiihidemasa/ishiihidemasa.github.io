@@ -1,0 +1,14 @@
+---
+aliases:
+  - /research/notes/index.html
+title: "Notes"
+subtitle: "(not peer-reviewed)"
+---
+
+Expository notes written alongside my research, and notes on tools.
+
+- [A Modeller's Introduction to Stochastic Nonlinear Dynamics (2026)](/en/research/notes/stochastic-nonlinear-dynamics.qmd)\
+  Stochastic differential equations, Fokker-Planck equations, and noise-induced escape, for modellers coming from deterministic nonlinear dynamics. Adapted from Chapter 2 of my doctoral thesis. 19 pages.
+
+- [Technical Notes](/ja/research/notes/technical-notes.qmd) (mainly in Japanese)\
+  Notes on Julia, Python and LaTeX, and links to my posts in Qiita.
